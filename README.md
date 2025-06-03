@@ -1,6 +1,7 @@
 # DevOps Learning Journey 🚀
 
 A comprehensive collection of DevOps tutorials, Linux command practice, and automation scripts.
+I'm currently diving into **Bash scripting** and documenting what I learn along the way.
 
 ## 📁 Repository Structure
 
@@ -21,10 +22,14 @@ A comprehensive collection of DevOps tutorials, Linux command practice, and auto
 - `script.sh` - General purpose script
 - Various text files for practice
 
+### 🐚 Bash Practice
+- `hello.sh` - Introduction to variables and user input
+- `loop.sh` - Simple loops and conditionals
+
 ## 🎯 Learning Path
 
 1. **✅ Linux Command Line** - Master essential commands through Over-The-Wire challenges
-2. **🔄 Next: Bash Scripting** - Advanced shell scripting and automation
+2. **🐚 Currently Learning: Bash Scripting** - Building a strong foundation in shell scripting and automation
 3. **📦 Coming Soon**: Docker containerization
 4. **☁️ Coming Soon**: Cloud platforms (AWS/Azure)
 5. **🔄 Coming Soon**: CI/CD pipelines
