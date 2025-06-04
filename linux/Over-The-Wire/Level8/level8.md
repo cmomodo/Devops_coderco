@@ -4,4 +4,4 @@ then we are going to pipe it to head to take the first entry
 
 grep "millionth" data.txt | head -n 1
 
-password : dfwvzFQi4mU©wfNbF0e9RoWskMLg7eEc
+password : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
