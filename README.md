@@ -39,13 +39,21 @@ I'm currently diving into **Bash scripting** and documenting what I learn along 
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd dev-ops
+cd Devops_coderco
 
 # Make scripts executable
 chmod +x linux/*.sh
 
 # Start with Linux fundamentals
 cd linux/Over-The-Wire/Level0
+```
+
+## 🧪 Testing
+
+Run all Bats tests with:
+
+```bash
+bats tests
 ```
 
 ## 📚 Resources
