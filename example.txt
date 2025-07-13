@@ -1,0 +1,4 @@
+This is an example text file.
+You can write anything here.
+lets learn how to use vim effectively.
+example:
