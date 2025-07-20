@@ -1,0 +1,50 @@
+1. EC2 - Compute Services
+2. S3 - Object Storage
+3. RDS - Relational Database Management
+4. Lambda - Serverless Computing
+5. DynamoDB - NoSQL Database
+6. VPC - Virtual Private Cloud Networking
+7. IAM - Identity and Access Management
+8. CloudWatch - Monitoring and Logging
+9. SNS - Notification Service
+10. SQS - Message Queue Service
+11. ECS - Container Orchestration
+12. EKS - Kubernetes Service
+13. ELB - Load Balancing
+14. Route 53 - Domain Name System (DNS)
+15. CloudFront - Content Delivery Network (CDN)
+16. Aurora - Relational Database Engine
+17. Redshift - Data Warehousing
+18. SageMaker - Machine Learning
+19. API Gateway - API Management
+20. Glacier - Long-term Data Archival
+21. Athena - Query Service for S3
+22. Kinesis - Real-time Data Streaming
+23. Step Functions - Workflow Orchestration
+24. CloudFormation - Infrastructure as Code
+25. CodeBuild - Build Service
+26. CodeDeploy - Deployment Automation
+27. CodePipeline - Continuous Integration and Delivery
+28. Backup - Centralized Backup Service
+29. Systems Manager (SSM) - Operational Management
+30. Secrets Manager - Secure Secret Storage
+31. WAF - Web Application Firewall
+32. Shield - DDoS Protection
+33. Inspector - Security Assessment
+34. Macie - Data Security and Classification
+35. EventBridge - Event-driven Computing
+36. Fargate - Serverless Container Execution
+37. Neptune - Graph Database
+38. Elastic Beanstalk - Application Deployment
+39. Elasticsearch Service - Search and Analytics
+40. Transcribe - Speech to Text
+41. Translate - Language Translation
+42. Polly - Text to Speech
+43. Rekognition - Image and Video Analysis
+44. Comprehend - Natural Language Processing
+45. Forecast - Time Series Forecasting
+46. Personalize - Recommendation Service
+47. IoT Core - Internet of Things Management
+48. Ground Station - Satellite Communication
+49. Snowball - Data Transfer at Scale
+50. QuickSight - Business Intelligence Reporting
