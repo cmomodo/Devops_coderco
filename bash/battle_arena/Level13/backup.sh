@@ -1,6 +1,6 @@
 #!/bin/bash
-SOURCE_DIR=/path/to/directory
-BACKUP_DIR=/path/to/backup/directory
+SOURCE_DIR="/Users/momodou/Documents/dev-ops/bash/battle_arena/Level13/united"
+BACKUP_DIR="/Users/momodou/Documents/dev-ops/bash/battle_arena/Level13/chelsea"
 BACKUP_COUNT=5
 
 # Create a backup
